@@ -5,4 +5,3 @@ This project is a React-based player catalog that dynamically displays a list of
 `React` (Component-based UI)
 `React Bootstrap` (Pre-styled components & grid system)
 `JavaScript (ES6+)` (Destructuring, .map(), props)
-`CSS` (Basic styling & responsiveness)
