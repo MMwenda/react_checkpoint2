@@ -16,6 +16,7 @@ function Player({name , team , nationality, jerseyNumber , age, image }) {
         )
 }
 
+//using proptypes for typechecking
 Player.propTypes = {
     name: PropTypes.string,
     team: PropTypes.string,
@@ -25,6 +26,7 @@ Player.propTypes = {
     image: PropTypes.string,
   };
 
+//default props
 Player.defaultProps = {
     name: "Unknown",
     team: "No Team",
